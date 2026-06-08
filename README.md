@@ -65,16 +65,6 @@ Active Directory • Privilege Escalation • Reverse Engineering • Malware An
 
 ---
 
-## 🏆 Interests
-
-🚩 CTF competitions  
-🔐 Ethical hacking  
-⚙️ Low-level / systems programming  
-🌐 Web application security  
-🐧 Linux & system administration  
-
----
-
 ## 📫 Contact
 
 <p>
