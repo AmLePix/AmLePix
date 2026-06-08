@@ -71,14 +71,6 @@ Active Directory • Privilege Escalation • Reverse Engineering • Malware An
   <a href="https://www.linkedin.com/in/delhem-mohamed-amine">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <a href="https://profile.hackthebox.com/profile/019ea489-df73-7348-bc08-d33d15bae6c2">
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
-  </a>
-
-  <a href="https://www.root-me.org/MohAmine-845327">
-    <img src="https://img.shields.io/badge/Root--Me-FF6600?style=for-the-badge" />
-  </a>
 </p>
 
 </div>
