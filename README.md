@@ -44,7 +44,6 @@
 ## 🎯 Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
   <img src="https://img.shields.io/badge/Root--Me-FF6600?style=for-the-badge" />
 </p>
