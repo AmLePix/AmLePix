@@ -36,7 +36,6 @@
   <img src="https://img.shields.io/badge/Penetration%20Testing-111111?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Reverse%20Engineering-8B0000?style=for-the-badge&logo=gnu&logoColor=white" />
   <img src="https://img.shields.io/badge/Malware%20Analysis-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web%20Security-0A0A0A?style=for-the-badge&logo=firefox&logoColor=white" />
   <img src="https://img.shields.io/badge/Binary%20Exploitation-1C1C1C?style=for-the-badge" />
 </p>
 
