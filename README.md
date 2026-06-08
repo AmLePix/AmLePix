@@ -18,11 +18,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
 </p>
 
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vue" />
-</p>
-
 ### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
