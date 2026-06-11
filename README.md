@@ -10,7 +10,7 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,cs,bash" />
+  <img src="https://skillicons.dev/icons?i=js,ts,flutter,python,c,cpp,cs,bash" />
 </p>
 
 ### 🧠 Backend / Runtime
